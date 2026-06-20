@@ -1,0 +1,3 @@
+create or replace view MY_TRIAL_DB.K_TEST.VW_TEST_2 AS ( 
+    SELECT CURRENT_DATE() AS DATE_1
+)
